@@ -1,4 +1,4 @@
-module github.com/form3tech-oss/logrus-logzio-hook
+module github.com/basset-la/logrus-logzio-hook
 
 go 1.12
 
