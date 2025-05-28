@@ -1,4 +1,4 @@
-module github.com/basset-la/logrus-logzio-hook
+module github.com/mendel-travel/logrus-logzio-hook
 
 go 1.12
 
